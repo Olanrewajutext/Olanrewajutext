@@ -1,13 +1,19 @@
-<h1>Hi, I'm Olanrewaju! 
+<h1>Hi, I'm Olanrewaju! </h1>
 
-<h2>👨‍💻 Cybersecurity Analyst:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>    
 
-  - <b>Cybersecurity projects </b>
-  - [Active Directory Home Lab]
-  
-  - <b>Certifications </b>
+
+- [Active Directory](https://github.com/github.com)
+
+
+<h2>📺 Certifications</h2>
+
+- [google it support professional](https://)
 
 <h2>📺 Popular YouTube Videos</h2>
+
+
+- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -40,3 +46,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
