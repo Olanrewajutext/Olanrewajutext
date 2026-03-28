@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [google it support professional](https://)
+- [Google IT Support Professional](https://)
 
 <h2>📺 Popular YouTube Videos</h2>
 
