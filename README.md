@@ -4,11 +4,15 @@
 
 
 - [Active Directory](https://github.com/github.com)
-
-
 <h2>📺 Certifications</h2>
 
 - [Google IT Support Professional](//https://www.credly.com/badges/5c2200a0-1da9-475c-9999-465910fddaaa/)
+
+- (https://www.netacad.com/certificates/?issuanceId=f0eb15e2-b53f-4356-840c-0e93632e912d/)
+
+- (https://www.netacad.com/certificates/?issuanceId=f871cd0a-d71b-4f4d-a73a-6f2f82fa200c/)
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
