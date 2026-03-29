@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google IT Support Professional](https://)
+- [Google IT Support Professional](https:/https://imgur.com/a/R89vlSH/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
