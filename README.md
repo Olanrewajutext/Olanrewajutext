@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google IT Support Professional](https:/https://imgur.com/a/R89vlSH/)
+- [Google IT Support Professional](//https://www.credly.com/badges/5c2200a0-1da9-475c-9999-465910fddaaa/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
